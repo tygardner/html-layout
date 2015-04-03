@@ -19,11 +19,12 @@ html, body {
   background-color: #EFEFEF;
   width: 75%;
   height: 100%;
-  margin: 0px 100px 0px 100px;
+  margin: 0px 100px 0px 130px;
+  overflow: auto;
 }
 .box_black {
   background-color: #222222;
   width: 75%;
   height: 25%;
-  margin: 0px 100px 50px 100px;
+  margin: 0px 100px 50px 130px;
 }

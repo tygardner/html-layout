@@ -1,0 +1,29 @@
+html, body {
+	width:100%;
+	height:100%;
+	margin:0;
+}
+
+.section {
+	height:100%;
+	width: 33.33%;
+	background: #4A90E2;
+	float:left;
+}
+
+.marine {
+	background: #50E3c2
+}
+.green {
+	background: #b8e986;
+}
+.space {
+	width:100%;
+	height: 80%;
+
+}
+.placeholder {
+	width: 100%;
+	height: 20%;
+	background: #D0021B;
+}
